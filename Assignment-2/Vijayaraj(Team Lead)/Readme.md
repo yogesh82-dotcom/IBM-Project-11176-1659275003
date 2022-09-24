@@ -1,6 +1,7 @@
 Python Assignment:
 
 ~Sensor vales based on Random Python Function.
+
 ~Threshold is used to control the Alert.
 
 Technologies Used:
